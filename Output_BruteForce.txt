@@ -1,0 +1,5 @@
+Optimal Allocation:
+GOOGL: 1 units
+TSLA: 479 units
+Expected Portfolio Return: 0.047970000000000006
+Portfolio Risk Level: 0.02

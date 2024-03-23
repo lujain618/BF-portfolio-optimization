@@ -1,0 +1,4 @@
+GOOGL : 0.07 : 0.04 : 600
+TSLA : 0.1 : 0.05 : 600
+Total investment is 1200 units
+Risk tolerance level is 0.02

@@ -1,0 +1,4 @@
+APPL : 0.07 : 0.04 : 200
+FB : 0.1 : 0.05 : 150
+Total investment is 300 units
+Risk tolerance level is 0.032
